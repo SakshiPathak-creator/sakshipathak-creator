@@ -63,22 +63,19 @@
 - 🔭 I’m currently working on: **test**
 - 💬 Ask me about: **wordpress**
 - 📫 How to reach me: [abhaypathak931@gmail.com](mailto:abhaypathak931@gmail.com)
-- 👨‍💻 **[My Portfolio](https://dtwasset.com/)**
-- 📝 **[My Blog/Articles](https://dtwasset.com/)**
-- 📄 **[My Resume](https://dtwasset.com/)**
 - ⚡ Fun fact: **I can slve**
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshiPathak-creator&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="SakshiPathak-creator's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshiPathak-creator&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true" alt="SakshiPathak-creator's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakshiPathak-creator&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakshiPathak-creator&locale=en&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SakshiPathak-creator&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=SakshiPathak-creator&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
