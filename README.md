@@ -58,3 +58,6 @@
 - 🤔 Ask Me About: Python
 - 📫 How to Reach Me: [abhaypathak931@gmail.com](mailto:abhaypathak931@gmail.com)
 - 😄 Fun Fact: I am a good girl
+
+<p align="center"><a href="https://twitter.com/intent/follow?screen_name=elonmusk" target="_blank"><img src="https://img.shields.io/twitter/follow/elonmusk?style=social&logo=x&logoColor=white" alt="Follow @elonmusk"></a>
+</p>
