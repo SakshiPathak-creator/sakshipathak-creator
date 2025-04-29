@@ -1,66 +1,72 @@
-![Profile Banner](https://raw.githubusercontent.com/Dynamic-Tech-World/Dynamic-Tech-World/refs/heads/main/Github%20banner%20.png)
-
-<h1 align="center">Hi 👋, I'm Abhay Pathak</h1>
-
-<h3 align="center">heelo this is bio</h3>
-
-## 🛠️ Skills & Technologies
-
-<p align="left">
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="Ruby" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="Svelte" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cypress.svg" alt="Cypress" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="36" height="36"/></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dynamic-Tech-World/Dynamic-Tech-World/refs/heads/main/Github%20banner%20.png" alt="Banner" width="100%">
 </p>
 
-## 🤝 Connect with Me
+<h1 align="center">Hi 👋, I'm Sakshi Pathak!</h1>
+
+<h3 align="center">Helo this is bio</h3>
 
 <p align="left">
-<a href="https://github.com/SakshiPathak-creator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://twitter.com/elonmusk" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter%20/%20X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/></a>
-<a href="https://linkedin.com/in/Abhay Pathak" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.youtube.com/c/dynamictechworld" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://github.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" class="social-icon-link">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" class="social-icon-link">
+    <img src="https://img.shields.io/badge/Twitter / X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
+  </a>
+  <a href="https://linkedin.com/in/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" class="social-icon-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" class="social-icon-link">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" />
+  </a>
 </p>
 
-## 🔗 Links
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=csharp" alt="C#" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=html5" alt="HTML5" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=css3" alt="CSS3" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=mocha" alt="Mocha" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=cplusplus" alt="C++" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" height="40" style="margin: 5px;" />
+</p>
 
-- 👨‍💻 Portfolio: [https://dtwasset.com/](https://dtwasset.com/)
-- 📝 Blog: [https://dtwasset.com/](https://dtwasset.com/)
-- 📄 Resume: [https://dtwasset.com/](https://dtwasset.com/)
+<h3 align="left">More About Me:</h3>
 
-## ℹ️ About Me
+- 🌱 I’m currently learning: **rust**
+- 🔭 I’m currently working on: **test**
+- 💬 Ask me about: **wordpress**
+- 📫 How to reach me: [abhay@gmail.com](mailto:abhay@gmail.com)
+- 👨‍💻 **[My Portfolio](https://dtwasset.com/)**
+- 📝 **[My Blog/Articles](https://dtwasset.com/)**
+- 📄 **[My Resume](https://dtwasset.com/)**
+- ⚡ Fun fact: **I can slve**
 
-- 🌱 Currently Learning: wordpress
-- 🔭 Working On: video editing
-- 🤔 Ask Me About: python
-- 📫 How to Reach Me: [abhay@gmail.com](mailto:abhay@gmail.com)
-- 😄 Fun Fact: i am a good
 
-<p align="center"><a href="https://twitter.com/intent/follow?screen_name=elonmusk" target="_blank"><img src="https://img.shields.io/twitter/follow/elonmusk?style=social&logo=x&logoColor=white" alt="Follow @elonmusk"></a>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SakshiPathak-creator&show_icons=true&locale=en&theme=gruvbox_light&count_private=true&hide_border=true" alt="SakshiPathak-creator's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SakshiPathak-creator&locale=en&theme=gruvbox_light&layout=compact&hide_border=true" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiPathak-creator&theme=gruvbox_light&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://komarev.com/ghpvc/?username=SakshiPathak-creator&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+  <a href="https://twitter.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener">
+    <img src="https://img.shields.io/twitter/follow/SakshiPathak-creator?logo=x&style=social" alt="Follow @SakshiPathak-creator on Twitter" />
+  </a>
+  <a href="https://github.com/sponsors/SakshiPathak-creator" target="_blank" rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @SakshiPathak-creator" />
+  </a>
 </p>
