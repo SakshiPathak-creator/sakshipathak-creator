@@ -6,12 +6,13 @@
 
 <h3 align="center">athis is bio test</h3>
 
+<div class="social-icons-wrapper">
 <p align="left">
   <a href="https://github.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" class="social-icon-link">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://twitter.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" class="social-icon-link">
-    <img src="https://img.shields.io/badge/Twitter / X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
+    <img src="https://img.shields.io/badge/Twitter%20/%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
   <a href="https://linkedin.com/in/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" class="social-icon-link">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -23,7 +24,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://stackoverflow.com/users/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" class="social-icon-link">
-    <img src="https://img.shields.io/badge/Stack Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://youtube.com/@SakshiPathak-creator" target="_blank" rel="noreferrer noopener" class="social-icon-link">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -44,18 +45,21 @@
     <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" />
   </a>
 </p>
+</div>
 
+<div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" height="40" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" height="40" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=html5" alt="HTML5" height="40" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=css3" alt="CSS3" height="40" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" />
+  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" height="45" />
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" height="45" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" />
+  <img src="https://skillicons.dev/icons?i=html5" alt="HTML5" height="45" />
+  <img src="https://skillicons.dev/icons?i=css3" alt="CSS3" height="45" />
+  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="45" />
 </p>
+</div>
 
 <h3 align="left">More About Me:</h3>
 
@@ -63,7 +67,20 @@
 - 🔭 I’m currently working on: **test**
 - 💬 Ask me about: **wordpress**
 - 📫 How to reach me: [abhaypathak931@gmail.com](mailto:abhaypathak931@gmail.com)
+- 👨‍💻 **[My Portfolio](https://dtwasset.com/)**
+- 📝 **[My Blog/Articles](https://dtwasset.com/)**
+- 📄 **[My Resume](https://dtwasset.com/)**
 - ⚡ Fun fact: **I can slve**
+
+
+<hr>
+<h3 align="left">Pinned Repositories:</h3>
+<p align="center">
+  <a href="https://github.com/SakshiPathak-creator/SakshiPathak-creator" target="_blank" rel="noreferrer noopener">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshiPathak-creator&repo=SakshiPathak-creator&theme=radical" alt="SakshiPathak-creator/SakshiPathak-creator" />
+  </a>
+</p>
+
 
 
 <p align="center">
