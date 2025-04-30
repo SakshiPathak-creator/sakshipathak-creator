@@ -1,95 +1,83 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dynamic-Tech-World/Dynamic-Tech-World/refs/heads/main/Github%20banner%20.png" alt="Banner" width="100%">
+<p align="center"><img src="https://raw.githubusercontent.com/Dynamic-Tech-World/Dynamic-Tech-World/refs/heads/main/Github%20banner%20.png" alt="Banner" width="100%"></p>
+
+<h1 align="center">Hi 👋, I'm Sakshi Patha</h1>
+<h3 align="center">Thi is bio</h3>
+
+<p align="left">
+[![LinkedIn](https://img.shields.io/badge/0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SakshiPathak-creator)
+ 
+[![Twitter](https://img.shields.io/badge/1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SakshiPathak-creator)
+ 
+[![Medium](https://img.shields.io/badge/12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@SakshiPathak-creator)
+ 
+[![Stack Overflow](https://img.shields.io/badge/FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/SakshiPathak-creator)
+ 
+[![Dribbble](https://img.shields.io/badge/EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/SakshiPathak-creator)
+ 
+[![Instagram](https://img.shields.io/badge/E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/SakshiPathak-creator)
+ 
+[![YouTube](https://img.shields.io/badge/FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/SakshiPathak-creator)
 </p>
 
-<h1 align="center">Hi 👋, I'm Abhay Pathak!</h1>
-
-<h3 align="center">athis is bio test</h3>
-
-<h3 align="left">More About Me:</h3>
-
-- 🌱 I’m currently learning: **rust**
-- 🔭 I’m currently working on: **test**
-- 💬 Ask me about: **wordpress**
-- 📫 How to reach me: [abhaypathak931@gmail.com](mailto:abhaypathak931@gmail.com)
-- 👨‍💻 **[My Portfolio](https://dtwasset.com/)**
-- 📝 **[My Blog/Articles](https://dtwasset.com/)**
-- 📄 **[My Resume](https://dtwasset.com/)**
-- ⚡ Fun fact: **I can slve**
-
-
-<div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" />
-  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" height="45" />
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" height="45" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" />
-  <img src="https://skillicons.dev/icons?i=html5" alt="HTML5" height="45" />
-  <img src="https://skillicons.dev/icons?i=css3" alt="CSS3" height="45" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="45" />
+<img src="https://img.shields.io/badge/F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/007396?style=flat&logo=openjdk&logoColor=white" alt="Java" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/239120?style=flat&logo=csharp&logoColor=white" alt="C#" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/00ADD8?style=flat&logo=go&logoColor=white" alt="Go" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/FA7343?style=flat&logo=swift&logoColor=white" alt="Swift" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/61DAFB?style=flat&logo=react&logoColor=white" alt="React Native" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/3DDC84?style=flat&logo=android&logoColor=white" alt="Android" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/000000?style=flat&logo=apple&logoColor=white" alt="iOS" height="30" style="vertical-align:top; margin:4px"/>
 </p>
-</div>
 
-<h3 align="left">Connect with me:</h3>
-<div class="social-icons-wrapper">
-<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-  <a href="https://github.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://twitter.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/x" alt="Twitter / X" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://linkedin.com/in/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://dev.to/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="DEV.to" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/devdotto" alt="DEV.to" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://medium.com/@SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="Medium" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/medium" alt="Medium" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://stackoverflow.com/users/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="Stack Overflow" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/stackoverflow" alt="Stack Overflow" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://youtube.com/@SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="YouTube" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://instagram.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://dribbble.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="Dribbble" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/dribbble" alt="Dribbble" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://behance.net/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="Behance" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/behance" alt="Behance" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://codepen.io/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="CodePen" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/codepen" alt="CodePen" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://codesandbox.io/u/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="CodeSandbox" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/codesandbox" alt="CodeSandbox" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
+<h3 align="left">About Me:</h3>
+<ul>
+  <li>🌱 I’m currently learning **Wordrpress**</li>
+  <li>🔭 I’m currently working on **Videoediting**</li>
+  <li>💬 Ask me about **Python**</li>
+  <li>📫 How to reach me **abhay@gmail.com**</li>
+  <li>⚡ Fun fact **I am a good**</li>
+</ul>
+
+<h3 align="left">Links:</h3>
+<p align="left">
+👨‍💻 [My Portfolio](https://dtwasset.com/)<br>
+📝 [My Blog/Articles](https://dtwasset.com/)<br>
+📄 [My Resume](https://dtwasset.com/)
 </p>
-</div>
 
+<h3 align="left">Pinned Projects:</h3>
+<p align="left">
+<a href="https://github.com/SakshiPathak-creator/SakshiPathak-creator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SakshiPathak-creator&repo=SakshiPathak-creator&theme=react" /></a>
+</p>
+
+<h3 align="left">Support Me:</h3>
+<p align="left">
+<a href="https://github.com/sponsors/SakshiPathak-creator"><img src="https://img.shields.io/badge/Sponsor-%231B1F23?style=flat&logo=github&logoColor=white" alt="Sponsor SakshiPathak-creator"/></a>
+</p>
+
+<h3 align="center">GitHub Stats & Activity</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshiPathak-creator&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true" alt="SakshiPathak-creator's GitHub Stats" />
+![Sakshi Patha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiPathak-creator&show_icons=true&locale=en&theme=react&count_private=true&hide_title=true)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiPathak-creator&layout=compact&show_icons=true&locale=en&theme=react&langs_count=8&hide_title=true)
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakshiPathak-creator&theme=react)
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=SakshiPathak-creator&label=Profile%20Views&color=blueviolet&style=flat)
+ 
+[![Twitter Follow](https://img.shields.io/twitter/follow/SakshiPathak-creator?style=social&label=Follow)](https://twitter.com/SakshiPathak-creator)
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakshiPathak-creator&locale=en&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+<p align="left">📍 Based in Najafgarh, New Delhi</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SakshiPathak-creator&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SakshiPathak-creator&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
-    
-  <a href="https://twitter.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/SakshiPathak-creator?logo=x&style=social" alt="Follow @SakshiPathak-creator on Twitter" /></a>
-    
-  <a href="https://github.com/sponsors/SakshiPathak-creator" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @SakshiPathak-creator" /></a>
-</p>
+---
+<p align="center"><em>Generated using <a href="https://github.com/YOUR_USERNAME/github-profile-readme-generator" target="_blank">GitHub Profile README Generator</a></em></p>
