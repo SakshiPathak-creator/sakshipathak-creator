@@ -1,57 +1,88 @@
-![Profile Banner](https://raw.githubusercontent.com/Dynamic-Tech-World/Dynamic-Tech-World/refs/heads/main/Github%20banner%20.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dynamic-Tech-World/Dynamic-Tech-World/refs/heads/main/Github%20banner%20.png" alt="Banner" width="100%">
+</p>
 
-<h1 align="center">Hi 👋, I'm Abhay Pathak</h1>
+<h1 align="center">Hi 👋, I'm Abhay Pathak!</h1>
 
 <h3 align="center">bio</h3>
 
-## 🤝 Connect with Me
+<h3 align="left">More About Me:</h3>
 
+- 🌱 I’m currently learning: **rust**
+- 🔭 I’m currently working on: **SakshiPathak-creator**
+- 💬 Ask me about: **wordpress**
+- 📫 How to reach me: [abhaypathak931@gmail.com](mailto:abhaypathak931@gmail.com)
+- 👨‍💻 **[My Portfolio](https://dtwasset.com/)**
+- 📝 **[My Blog/Articles](https://dtwasset.com/)**
+- 📄 **[My Resume](https://dtwasset.com/)**
+- ⚡ Fun fact: **I can slve**
+
+
+<div class="skills-section">
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://github.com/SakshiPathak-creator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> 
-<a href="https://twitter.com/elonmusk" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter%20/%20X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/></a> 
-<a href="https://linkedin.com/in/Abhay Pathak" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
-<a href="https://medium.com/@SakshiPathak-creator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> 
-<a href="https://www.youtube.com/c/dynamictechworld" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <img src="https://skillicons.dev/icons?i=mocha" alt="Mocha" height="45" />
+  <img src="https://skillicons.dev/icons?i=phpunit" alt="PHPUnit" height="45" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" />
+  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" height="45" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" height="45" />
+  <img src="https://skillicons.dev/icons?i=cplusplus" alt="C++" height="45" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="45" />
+  <img src="https://skillicons.dev/icons?i=csharp" alt="C#" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="45" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" height="45" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="45" />
+  <img src="https://skillicons.dev/icons?i=dotnetcore" alt=".NET Core" height="45" />
+  <img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" height="45" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" height="45" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" height="45" />
+</p>
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<div class="social-icons-wrapper">
+<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
+  <a href="https://github.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://twitter.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/twitter" alt="Twitter / X" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://linkedin.com/in/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://dev.to/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="DEV.to" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/dev-dot-to" alt="DEV.to" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://medium.com/@SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="Medium" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/medium" alt="Medium" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://stackoverflow.com/users/SakshiPathak-creator" target="_blank" rel="noreferrer noopener" title="Stack Overflow" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/stackoverflow" alt="Stack Overflow" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+</p>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshiPathak-creator&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true" alt="SakshiPathak-creator's GitHub Stats" />
 </p>
 
-## 🛠️ Skills & Technologies
-
-<p align="left">
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-plain.svg" alt="Mocha" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cypress.svg" alt="Cypress" width="36" height="36"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="36" height="36"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakshiPathak-creator&locale=en&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
-## 🔗 Links
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SakshiPathak-creator&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
-- 👨‍💻 Portfolio: [dtwasset.com](dtwasset.com)
-- 📝 Blog: [dtwasset.com](dtwasset.com)
-- 📄 Resume: [dtwasset.com](dtwasset.com)
-
-## ℹ️ About Me
-
-- 🌱 Currently Learning: wordpress
-- 🔭 Working On: wordpress
-- 🤔 Ask Me About: wordpress
-- 📫 How to Reach Me: [wordpress](mailto:wordpress)
-- 😄 Fun Fact: wordpress
-
-<p align="center"><a href="https://twitter.com/intent/follow?screen_name=elonmusk" target="_blank"><img src="https://img.shields.io/twitter/follow/elonmusk?style=social&logo=x&logoColor=white" alt="Follow @elonmusk"></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SakshiPathak-creator&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+    
+  <a href="https://twitter.com/SakshiPathak-creator" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/SakshiPathak-creator?logo=x&style=social" alt="Follow @SakshiPathak-creator on Twitter" /></a>
+    
+  <a href="https://github.com/sponsors/SakshiPathak-creator" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @SakshiPathak-creator" /></a>
 </p>
